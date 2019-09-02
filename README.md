@@ -1,9 +1,9 @@
 # PythonCodes
 
-##How to run the file
+## How to run the file
 
--- Download the files
+- Download the files
 
--- Open visual studio code or python ide
+- Open visual studio code or python ide
 
--- run the file
+- run the file
